@@ -4,7 +4,6 @@ A Project where i try to learn something new every 2 days, 1 day for learning an
 
 The Idea is to learn a new thing and then apply it, by Investing on Day 1 some time to research about the subject and then on Day 2 apply that knowledge onto a platform so for example doing a HTB Challenge, or do a Port Swigger Academy lab etc.
 
-This challenge was inspired from a challenge I found on LinkedIn : https://github.com/harsh-bothra/learn365
 
 **This Challenge is mostly about learning so notes here not all made by knowledge, i use a lot of resources and try to link them, if there are any resources not mentioned please feel free to message me and i will add them**
 
